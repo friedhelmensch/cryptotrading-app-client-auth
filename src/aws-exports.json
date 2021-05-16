@@ -1,0 +1,9 @@
+{
+  "Auth": {
+    "identityPoolId": "eu-central-1:82ff2654-54af-40d5-92e7-c514238dabb4",
+    "region": "eu-central-1",
+    "userPoolId": "eu-central-1_ujpUzAXDs",
+    "userPoolWebClientId": "2ni619b4r946j44k7r7j1l25g3",
+    "mandatorySignIn": false
+  }
+}
